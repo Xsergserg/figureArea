@@ -1,9 +1,11 @@
 # figureArea
  Small library for calculating geometric figures area (circle + triangle)
  
- FigureArea.cs - sourse code
+ Library provide void method FigureArea.app().
  
- Figurearea.dll - compiled librarary from 
+ FigureArea.cs - source code
+ 
+ Figurearea.dll - compiled librarary from FigureArea.cs
  
  main.cs - simple main file for testing
  
